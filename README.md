@@ -1,2 +1,2 @@
 # public-images
-![TET](/public-images/KANO.PNG)
+![TET](/KANO.PNG)
